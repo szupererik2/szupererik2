@@ -121,7 +121,7 @@ https://readme-typing-svg.demolab.com/demo/?weight=600&size=22&pause=1200&color=
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=szupererik2&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
 
-<!-- ▼ SECTION: contribution snake (needs .github/workflows/snake.yml — run it once from the Actions tab) -->
+<!-- ▼ SECTION: contribution snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/szupererik2/szupererik2/output/github-snake-dark.svg"/>
